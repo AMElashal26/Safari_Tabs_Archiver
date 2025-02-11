@@ -84,4 +84,4 @@ Pull requests are welcome! If you’d like to contribute:
 ---
 
 ## 📬 Contact & Feedback  
-For suggestions or issues, feel free to reach out via **GitHub Issues** or email me at **[your email]**.  
+For suggestions or issues, feel free to reach out via **GitHub Issues** or email me at **almahme000@gmail.com**.
