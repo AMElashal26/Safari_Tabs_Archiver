@@ -24,7 +24,7 @@ This **Apple Shortcut** allows you to quickly archive all open Safari tabs into 
 
 ## 📂 Installation  
 
-1. **Download the Shortcut**: [[Insert iCloud Link to Shortcut](https://www.icloud.com/shortcuts/f3c249720e3d4212bca98c48599cae21)]  
+1. **Download the Shortcut**: [[iCloud Link to Shortcut](https://www.icloud.com/shortcuts/f3c249720e3d4212bca98c48599cae21)]  
 2. Open the **Shortcuts** app on your iPhone/iPad/Mac.  
 3. Tap **"Add Shortcut"** to import it.  
 4. *(Optional)* Customize the **destination options** in the Shortcut settings.  
